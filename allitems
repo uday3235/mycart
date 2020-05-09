@@ -12,91 +12,91 @@
       "Added": "09-05-2020",
       "Image": "",
       "Type": "Chicken",
-      "costPerKg": "200"
+      "costPerKg": "160"
     },
     {
       "Name": "Chicken Boneless",
       "Added": "09-05-2020",
       "Image": "",
       "Type": "Chicken",
-      "costPerKg": "200"
+      "costPerKg": "300"
     },
     {
       "Name": "Chicken Live",
       "Added": "09-05-2020",
       "Image": "",
       "Type": "Chicken",
-      "costPerKg": "200"
+      "costPerKg": "120"
     },
     {
       "Name": "Chicken Liver",
       "Added": "09-05-2020",
       "Image": "",
       "Type": "Chicken",
-      "costPerKg": "200"
+      "costPerKg": "100"
     },
     {
       "Name": "Chicken Kheema",
       "Added": "09-05-2020",
       "Image": "",
       "Type": "Chicken",
-      "costPerKg": "200"
+      "costPerKg": "450"
     },
     {
       "Name": "Chicken Legpeices",
       "Added": "09-05-2020",
       "Image": "",
       "Type": "Chicken",
-      "costPerKg": "200"
+      "costPerKg": "500"
     },
     {
       "Name": "Chicken ChestPeices",
       "Added": "09-05-2020",
       "Image": "",
       "Type": "Chicken",
-      "costPerKg": "200"
+      "costPerKg": "450"
     },
     {
       "Name": "Mutton withbones",
       "Added": "09-05-2020",
       "Image": "",
       "Type": "Mutton",
-      "costPerKg": "200"
+      "costPerKg": "700"
     },
     {
       "Name": "Mutton boneless",
       "Added": "09-05-2020",
       "Image": "",
       "Type": "Mutton",
-      "costPerKg": "200"
+      "costPerKg": "1200"
     },
     {
       "Name": "Mutton liver",
       "Added": "09-05-2020",
       "Image": "",
       "Type": "Mutton",
-      "costPerKg": "200"
+      "costPerKg": "500"
     },
     {
       "Name": "Mutton Head",
       "Added": "09-05-2020",
       "Image": "",
       "Type": "Mutton",
-      "costPerKg": "200"
+      "costPerKg": "450"
     },
     {
       "Name": "Mutton Boti",
       "Added": "09-05-2020",
       "Image": "",
       "Type": "Mutton",
-      "costPerKg": "200"
+      "costPerKg": "350"
     },
     {
       "Name": "Mutton Kheema",
       "Added": "09-05-2020",
       "Image": "",
       "Type": "Mutton",
-      "costPerKg": "200"
+      "costPerKg": "1800"
     }
   ],
   "Categories": [
@@ -104,25 +104,29 @@
       "Name": "Mutton WholeSale",
       "Added": "09-05-2020",
       "Image": "",
-      "Type": "Mutton"
+      "Type": "Mutton",
+      "costPerKg": "600"
     },
     {
       "Name": "Mutton Live WholeSale",
       "Added": "09-05-2020",
       "Image": "",
-      "Type": "Mutton"
+      "Type": "Mutton",
+      "costPerKg": "500"
     },
     {
       "Name": "Mutton Boneless WholeSale",
       "Added": "09-05-2020",
       "Image": "",
-      "Type": "Mutton"
+      "Type": "Mutton",
+      "costPerKg": "1100"
     },
     {
       "Name": "Chicken Boneless WholeSale",
       "Added": "09-05-2020",
       "Image": "",
-      "Type": "Chicken"
+      "Type": "Chicken",
+      "costPerKg": "250"
     },
     {
       "Name": "Mutton Heads WholeSale",
@@ -134,13 +138,15 @@
       "Name": "Chicken Biryani Peice WholeSale",
       "Added": "09-05-2020",
       "Image": "",
-      "Type": "Chicken"
+      "Type": "Chicken",
+      "costPerKg": "300"
     },
     {
       "Name": "Chicken WholeSale",
       "Added": "09-05-2020",
       "Image": "",
-      "Type": "Chicken"
+      "Type": "Chicken",
+      "costPerKg": "180"
     }
   ]
 }
